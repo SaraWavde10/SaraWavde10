@@ -1,6 +1,6 @@
 ## Hi there 👋
 I'm a student at the University of Manchester. 
-I mainly code in Python but I am learning C++ too.
+I code in Python and C++. 
 
 My work here is a mix of University modules and internships. They range from basic data wrangling to machine learning applied to both particle physics (shower recognition) and football (weather correlation for Oldham Athletic Football Club from the 90's to the 2024-25 season). 
 
